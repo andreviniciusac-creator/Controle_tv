@@ -2,7 +2,7 @@
 
 Controle remoto para TV Samsung Smart (Tizen, 2016 em diante) pelo navegador, no mesmo Wi‑Fi.
 
-**Abrir:** https://andreviniciusac-creator.github.io/controle_tv/
+**Abrir:** https://andreviniciusac-creator.github.io/Controle_tv/
 
 ## Como usar
 1. Descubra o IP da TV: Configurações › Geral › Rede › Status da rede › Configurações de IP.
